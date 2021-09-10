@@ -1,0 +1,3 @@
+This repository contains basic intro Arduino projects from The Arduino Inventor's Guide, by Brian Huang and Derek Runberg. Some of the projects are just from the book, and some go a bit further because I wanted to try to accomplish specific things (trying to improve my C++ skills in addition to learning the ins and outs of Arduinos).
+
+The items required for all of these projects are included in the Sparkfun Inventor's Kit (KIT-13969) and their supplementary kit (NoStarchArduino), and each project lists tools/electronics/etc required to replicate it.
