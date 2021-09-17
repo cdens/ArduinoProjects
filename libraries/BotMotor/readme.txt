@@ -1,0 +1,1 @@
+This library allows users to control motors connected to an H-bridge circuit (goes with the Robot project in this repository- see that for more information).
