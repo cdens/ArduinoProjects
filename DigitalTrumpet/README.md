@@ -21,6 +21,6 @@ In order to make sound, the fourth "play-select" button must also be depressed. 
 *Happy playing!*
 
 ## Example:
-See the example image below, and a [demo video hosted on imgur](https://imgur.com/a/6rfqM4O)!
+See the example image below, and a [demo video hosted on imgur](https://imgur.com/a/sAthne2)!
 
 ![example](example.png)
