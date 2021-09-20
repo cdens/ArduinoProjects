@@ -33,5 +33,6 @@ The button is optional, but I added one with a pull-down 10 kOhm resistor to tri
 # Building the Bot
 I opted to go for a smaller bot, with just enough surface area to hold the Arduino and battery pack. The robot pictured below is just cardboard and electrical/masking tape. The rear wheels leave room for creativity- I just made rear wheels with cardboard to keep the weight down.
 
+[Video example (dog for scale)!](https://imgur.com/a/zVcp5YW)
 
 <img src="example.jpg" alt="drawing" width="200"/>
