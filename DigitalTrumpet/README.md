@@ -20,7 +20,7 @@ In order to make sound, the fourth "play-select" button must also be depressed. 
 
 *Happy playing!*
 
-##Example:
+## Example:
 See the example image below, and the video included in this folder)!
 
 ![example](example.png)
